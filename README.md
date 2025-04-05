@@ -1,16 +1,13 @@
-## <div align="center">Hi 👋, I'm Ayşe Nur</div>  
-  
+<div align="center">Hi 👋, I'm Ayşe Nur</div>
+🎨 I'm currently working as a Product Designer, focusing on crafting seamless UX and beautiful UI.
 
-- 💻 I've been working as a front-end developer for about two years.  
-  
+💡 Continuously improving my skills in user experience and interface design.
 
-- 🌱 I’m currently learning ReactJs and AngularJs  
-  
+📱 I've been developing mobile applications with Flutter for nearly 3 years.
 
-- 🖼️ I also work in the field of UI / UX whenever I find time.  
-  
+👩‍💻 Previously worked as a front-end developer, which helps me bridge the gap between design and development.
 
-<br/>  
+<br/>
 
 
 <h3 align="left">Connect with me:</h3>
