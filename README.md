@@ -1,4 +1,5 @@
 <div align="center">Hi 👋, I'm Ayşe Nur</div>
+
 🎨 I'm currently working as a Product Designer, focusing on crafting seamless UX and beautiful UI.
 
 💡 Continuously improving my skills in user experience and interface design.
